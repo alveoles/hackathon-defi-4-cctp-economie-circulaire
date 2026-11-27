@@ -25,7 +25,12 @@ Les clauses retenues doivent pouvoir être intégrées ensuite au dossier de con
 
 ## Ressources
 
-🚧 En préparation : sujet complet, exemples de données de sortie, base de clauses.
+Dans `starter-pack/` :
+
+- `261126_165527_3F-La-Boliere_collecteurs-associes.xlsx` : un exemple de données de sortie de l'application (opération 3F La Bolière). Pour chaque collecteur : les flux concernés, le tonnage, le volume et la distance.
+- `Base de donnée-clausier source.docx` : la source de la base de clauses, le [clausier Ekopolis](https://www.ekopolis.fr/clausier).
+
+🚧 En préparation : le sujet complet.
 
 ## Démarrer
 
